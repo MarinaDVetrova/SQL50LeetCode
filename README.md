@@ -1,1 +1,1 @@
-# sql50leetcode
+# SQL 50 - LeetCode
